@@ -1,5 +1,6 @@
 ## Description of the Project
-* This is a mini portable solar power plant which is based on a sunflower model . This is a model which receives maximum sunlight and it saves a lot of space as compared to other solar plants
+* This is a mini portable solar power plant that is based on a sunflower model. This is a model which receives maximum sunlight and it saves a lot of space as compared to other solar plants.
+
 
 
 ## Learning Outcomes: -
