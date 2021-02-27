@@ -6,14 +6,7 @@
 
 ## Social Benefits:-
 *	The students will get a better understanding of mathematical curves and conic sections.
-
-
-## Materials we used
-
-|   **Item**        | **Quantity**                                                          |
-|-------------------------|------------------------------------------------------------------------|
-| Google Cardboard                   | 1                                                          |
-    
+   
     
 ## Images 
 <p>
